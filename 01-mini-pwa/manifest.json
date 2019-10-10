@@ -1,0 +1,17 @@
+{
+  "short_name": "WAM",
+  "name": "Web App Manifest",
+  "theme_color": "#eb5252",
+  "background_color": "#000000",
+  "display": "fullscreen",
+  "Scope": "/",
+  "orientation": "portrait",
+  "start_url": "index.html",
+  "icons": [
+    {
+      "src": "Box_Green.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ]
+}

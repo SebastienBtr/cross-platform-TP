@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/sebastienbouttier/Documents/A3-IMT/prog-multi-platform/TP/03-cordova/hellocordova/platforms/android/CordovaLib/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/sebastienbouttier/Documents/A3-IMT/prog-multi-platform/TP/03-cordova/hellocordova/platforms/android/CordovaLib/src/debug/jniLibs"/></dataSet></merger>
